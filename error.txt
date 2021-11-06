@@ -1,0 +1,8 @@
+Executing script: \\wsl.localhost\Ubuntu\home\adaline\twilioquest\list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+Traceback (most recent call last):
+  File "\\wsl.localhost\Ubuntu\home\adaline\twilioquest\list_iteration.py", line 5, in <module>
+    print(i+"."+i)
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+

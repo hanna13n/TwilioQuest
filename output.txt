@@ -1,0 +1,9 @@
+Executing script: \\wsl.localhost\Ubuntu\home\adaline\twilioquest\list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+0.Duke
+1.Ruby
+2.Dottie
+3.Snake
+4.Joe
+
